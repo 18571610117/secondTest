@@ -31,7 +31,7 @@ export default {
         },
         title: {
           text: "饼状图",
-          subtext: "模拟数据-上传github1"
+          subtext: "模拟数据-上传github2"
         },
         toolbox: {
           show: true,
