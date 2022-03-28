@@ -186,8 +186,7 @@ export default {
     }
   },
   computed: {},
-  watch: {},
-  destroyed() {}
+  watch: {}
 };
 </script>
 
