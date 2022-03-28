@@ -159,7 +159,7 @@ export default {
     },
 
     /**
-     * 动态赋值传值
+     * 动态赋值传值1
      */
     changeDemo() {
       this.queryCirle("setData");
